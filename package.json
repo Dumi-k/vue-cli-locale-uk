@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-locale-uk",
+  "version": "3.1.1",
+  "description": "Ukrainian localization for @vue/cli@3.1.1",
+  "unpkg": "./locales/ru.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumi-k/vue-cli-locale-uk.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue-cli",
+    "locale",
+    "uk-ua",
+    "uk"
+  ],
+  "author": "Dumi-k <dumi-k@i.ua>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumi-k/vue-cli-locale-uk/issues"
+  },
+  "homepage": "https://github.com/dumi-k/vue-cli-locale-uk/#readme"
+}
